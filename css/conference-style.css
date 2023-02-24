@@ -1,0 +1,46 @@
+/*
+Theme Name: Chumbo Conference
+Theme URI: https://conference.chumbo.pt/
+Author: Chumbo
+Author URI: https://chumbo.pt/
+Description: Theame for a Conference project
+Version: 1
+ */
+.brand-area img{
+    height: 65px;
+    margin-bottom: 20px;
+}
+.brand-area .row a{
+	padding:10px 10px !important;
+}
+.wp-block-image{
+    margin-bottom: 0px !important;
+}
+.no-padding .uagb-column__inner-wrap{
+    padding: 0px !important;
+}
+.speaker-img .uagb-column__inner-wrap{
+    margin-left: 0px !important;
+}
+#mobile-nav .sub-menu{
+    display: block !important;
+}
+.hide{
+	display: none !important;
+}
+
+
+figcaption{
+	text-align: center;
+}
+.price-area .available-latter:hover {
+    cursor: not-allowed !important;
+}
+.price-area .available-latter a:hover {
+    cursor: not-allowed !important;
+}
+
+#post-986 .container{
+	max-width: 93% !important;
+}
+
